@@ -25,3 +25,9 @@ The heart of the project is the **AI Logic Engine**. Instead of manual tagging, 
 
 ## 🎓 Academic Background
 This project is part of my engineering portfolio as a **Master of Software Engineering**. It demonstrates the synergy between traditional mobile development and modern Generative AI.
+## 📂 Project Structure
+Here is how the magic is organized inside the code:
+
+- **lib/main.dart**: This is the "brain" and the "face" of the app. It holds all the logic and the screens you see.
+- **models/**: This is the "memory". It contains the `Player` and `Task` blueprints (how the app remembers your stats and goals).
+- **pubspec.yaml**: This is the "shopping list". It tells Flutter which extra tools (like the calendar library) the app needs to work.
