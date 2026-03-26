@@ -31,3 +31,9 @@ Here is how the magic is organized inside the code:
 - **lib/main.dart**: This is the "brain" and the "face" of the app. It holds all the logic and the screens you see.
 - **models/**: This is the "memory". It contains the `Player` and `Task` blueprints (how the app remembers your stats and goals).
 - **pubspec.yaml**: This is the "shopping list". It tells Flutter which extra tools (like the calendar library) the app needs to work.
+- <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/390f6fd4-be89-48e2-a20f-32ce4b51b192" />
+- <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/dbde46e2-4f83-4cf5-8254-7c8f5d03fd3d" />
+- <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/55eeb0b6-0e3b-4448-b3f6-95b05119d58a" />
+
+
+
